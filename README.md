@@ -1,8 +1,8 @@
 ### Olá! Eu sou Caio Oiveira 👋
  <div>
   <a href="https://github.com/caiolliveiraa">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=caiolliveiraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolliveiraa&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=caiolliveiraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolliveiraa&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
