@@ -1,5 +1,4 @@
-### Olá! Eu sou Caio Oiveira 👋:brazil:
-
+### Olá! Eu sou Caio Oiveira 👋
 
 - 🌱 Estudando: Desenvolvimento front-end
  <div>
